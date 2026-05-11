@@ -1,0 +1,6 @@
+.venv
+.ipynb_checkpoints
+__pycache__
+*.pyc
+/data
+Capstone Project TSA 2026.pdf

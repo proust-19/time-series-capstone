@@ -1,0 +1,25 @@
+# Data fetching
+yfinance==0.2.51
+
+# Data manipulation
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# Statistics & Time Series
+statsmodels==0.14.4      # ARIMA, ADF test, STL decomposition
+pmdarima==2.0.4          # auto_arima
+
+# ML / LSTM
+scikit-learn==1.6.1      # MinMaxScaler, metrics
+tensorflow==2.16.2       # LSTM (CPU version, no GPU needed)
+
+# GARCH
+arch==7.2.0
+
+# Notebook
+jupyter==1.1.1
+ipykernel==6.29.5

@@ -4,3 +4,5 @@ __pycache__
 *.pyc
 /data
 Capstone Project TSA 2026.pdf
+.agents
+.codex

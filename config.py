@@ -8,6 +8,7 @@ tickers = {
     "Banking": "HDFCBANK.NS",
     "IT": "INFY.NS",
     "Pharma": "SUNPHARMA.NS",
+    "Auto": "M&M.NS",
     "FMCG": "HINDUNILVR.NS"
 }
 
@@ -21,5 +22,5 @@ test_end = "2025-12-31"
 
 forecast_horizon  = 2
 virtual_capital   = 1_000_000
-lstm_window       = 30
+lstm_window       = 60
 random_seed       = 42

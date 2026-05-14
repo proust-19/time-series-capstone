@@ -1,6 +1,6 @@
 Stock,Sector,Model,Last Known Price,Forecast Day 1,Forecast Day 2,Pred Return D1 (%),Pred Return D2 (%)
-HDFCBANK.NS,Banking,"ARIMAX(1, 1, 1)+Nifty walk-fwd",990.9,990.96,990.96,0.006,0.006
-INFY.NS,IT,"ARIMAX(1, 1, 1)+Nifty walk-fwd",1621.6,1620.99,1621.35,-0.037,-0.015
-SUNPHARMA.NS,Pharma,"ARIMAX(1, 1, 1)+Nifty walk-fwd",1709.1,1708.97,1708.99,-0.008,-0.007
-M&M.NS,Auto,"ARIMAX(1, 1, 1)+Nifty walk-fwd",3660.3,3662.97,3666.08,0.073,0.158
-HINDUNILVR.NS,FMCG,"ARIMAX(1, 1, 1)+Nifty walk-fwd",2290.2,2290.09,2290.06,-0.005,-0.006
+HDFCBANK.NS,Banking,"ARIMAX(2, 0, 2)+Nifty walk-fwd",990.9,994.07,996.84,0.319,0.6
+INFY.NS,IT,"ARIMAX(3, 0, 2)+Nifty walk-fwd",1621.6,1653.94,1654.17,1.994,2.008
+SUNPHARMA.NS,Pharma,"ARIMAX(2, 0, 1)+Nifty walk-fwd",1709.1,1741.37,1742.29,1.888,1.942
+M&M.NS,Auto,"ARIMAX(3, 1, 1)+Nifty walk-fwd",3660.3,3658.79,3659.41,-0.041,-0.024
+HINDUNILVR.NS,FMCG,"ARIMAX(2, 0, 2)+Nifty walk-fwd",2290.2,2302.9,2303.92,0.554,0.599
